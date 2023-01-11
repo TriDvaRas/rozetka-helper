@@ -1,0 +1,123 @@
+[
+    {
+        "id": 308129543,
+        "mpath": ".4627949.80073.",
+        "href": "https://rozetka.com.ua/308129543/p308129543/",
+        "group": {
+            "id": 0,
+            "is_group_primary": 0,
+            "href": null
+        },
+        "category": {
+            "id": 80073,
+            "title": "Кабели и адаптеры",
+            "href": "https://rozetka.com.ua/tv-cables/c80073/",
+            "use_group_links": false,
+            "root_id": 80073
+        },
+        "title": "AUX cable 3.5mm Earldom ET-AUX23 (1.8M) Чёрный",
+        "brand": {
+            "id": 162730,
+            "title": "Earldom",
+            "name": "earldom",
+            "logo": null
+        },
+        "comments": {
+            "amount": 0,
+            "mark": 0
+        },
+        "docket": "",
+        "images": [
+            {
+                "original": "https://content1.rozetka.com.ua/goods/images/original/191923316.jpg",
+                "big_tile": "https://content1.rozetka.com.ua/goods/images/big_tile/191923316.jpg",
+                "preview": "https://content1.rozetka.com.ua/goods/images/preview/191923316.jpg"
+            }
+        ],
+        "loyalty": {
+            "pl_bonus_charge_pcs": 0,
+            "pl_use_instant_bonus": 0
+        },
+        "price": {
+            "old": 0,
+            "current": 90,
+            "pcs": "2.43"
+        },
+        "status": "active",
+        "status_inherited": "active",
+        "sell_status": "unavailable",
+        "merchant_id": 17,
+        "seller_id": 16752,
+        "state": "new",
+        "tag": null,
+        "premium_program": false,
+        "sla_id": 74752
+    },
+    {
+        "id": 336888409,
+        "mpath": ".4627949.80073.",
+        "href": "https://rozetka.com.ua/336888409/p336888409/",
+        "group": {
+            "id": 0,
+            "is_group_primary": 0,
+            "href": null
+        },
+        "category": {
+            "id": 80073,
+            "title": "Кабели и адаптеры",
+            "href": "https://rozetka.com.ua/tv-cables/c80073/",
+            "use_group_links": false,
+            "root_id": 80073
+        },
+        "title": "AUX cable 3.5mm BOROFONE BL4 (2M) Чёрный",
+        "brand": {
+            "id": 2931,
+            "title": "Borofone",
+            "name": "borofone",
+            "logo": null
+        },
+        "comments": {
+            "amount": 0,
+            "mark": 0
+        },
+        "docket": "",
+        "images": [
+            {
+                "original": "https://content1.rozetka.com.ua/goods/images/original/256159735.jpg",
+                "big_tile": "https://content1.rozetka.com.ua/goods/images/big_tile/256159735.jpg",
+                "preview": "https://content1.rozetka.com.ua/goods/images/preview/256159735.jpg"
+            },
+            {
+                "original": "https://content.rozetka.com.ua/goods/images/original/256159741.jpg",
+                "big_tile": "https://content.rozetka.com.ua/goods/images/big_tile/256159741.jpg",
+                "preview": "https://content.rozetka.com.ua/goods/images/preview/256159741.jpg"
+            },
+            {
+                "original": "https://content1.rozetka.com.ua/goods/images/original/256159747.jpg",
+                "big_tile": "https://content1.rozetka.com.ua/goods/images/big_tile/256159747.jpg",
+                "preview": "https://content1.rozetka.com.ua/goods/images/preview/256159747.jpg"
+            }
+        ],
+        "loyalty": {
+            "pl_bonus_charge_pcs": 0,
+            "pl_use_instant_bonus": 0
+        },
+        "price": {
+            "old": 0,
+            "current": 110,
+            "pcs": "2.68"
+        },
+        "status": "active",
+        "status_inherited": "active",
+        "sell_status": "available",
+        "merchant_id": 17,
+        "seller_id": 16752,
+        "state": "new",
+        "tag": null,
+        "premium_program": false,
+        "sla_id": 74752
+    },
+    {
+        
+    }
+]
